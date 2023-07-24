@@ -1,0 +1,12 @@
+allure_reports
+.idea
+.pytest_cache
+__pycache__
+tests/__pycache__
+pages/__pycache__
+pages/locators/__pycache__
+results
+geckodriver
+geckodriver.log
+report.html
+Rtest_register_new_user.py
