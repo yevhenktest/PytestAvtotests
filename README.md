@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ## Overview
 
 This project is a test automation framework for testing a website. The tests are written in Python using Selenium and Pytest frameworks. This README file contains instructions on how to run the autotests and generate a report.
@@ -61,3 +62,7 @@ will launch a test of filling out a login form on the KOM site with the generati
 ## Conclusion
 
 With the instructions in this README file, you should be able to run autotests for the website and generate a report. If you have any questions or issues, please contact the project team.
+=======
+# PytestAvtotests
+Autotests for site testing
+>>>>>>> 66917d03630bd1379341c2a098f7d7d8f8f5f3a4
