@@ -60,9 +60,4 @@ pytest -m signin_en --html=report.html --self-contained-html
 will launch a test of filling out a login form on the KOM site with the generation of a report in one HTML file. The report will be saved as report.html in the same directory as the autotests.
 
 ## Conclusion
-
 With the instructions in this README file, you should be able to run autotests for the website and generate a report. If you have any questions or issues, please contact the project team.
-=======
-# PytestAvtotests
-Autotests for site testing
->>>>>>> 66917d03630bd1379341c2a098f7d7d8f8f5f3a4
